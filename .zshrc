@@ -168,31 +168,3 @@ case ${OSTYPE} in
 esac
  
 # vim:set ft=zsh:
-
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-A
-A
-A
-A
-A
-A
-A
-# vim:set ft=zsh:
