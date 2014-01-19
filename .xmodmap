@@ -1,0 +1,9 @@
+!keycode 66 : CapsLockをCtrlに
+!keycode 102:無変換キーをEscapeに
+!一番下の二行は、特殊キーであるCapsLockとかをいじれるようにごにょごにょしてるらしい
+
+keycode	66 = Control_L NoSymbol Control_L
+keycode	102 = Escape
+
+clear	Lock
+add	Control = Control_L
