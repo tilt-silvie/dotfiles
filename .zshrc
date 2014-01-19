@@ -1,4 +1,5 @@
 # 少し凝った zshrc
+#forked by https://gist.github.com/mollifier/4979906
  
 ########################################
 # 環境変数
