@@ -151,6 +151,9 @@ elif which putclip >/dev/null 2>&1 ; then
     # Cygwin
     alias -g C='| putclip'
 fi
+
+#shoes
+alias	shoes="/tmp/shoes_build/red-shoes/dist/shoes"
  
  
  
